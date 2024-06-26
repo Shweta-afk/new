@@ -8,3 +8,4 @@ if (curage >18):
     print("u are valid")
 else:
     print("u are not valid")
+    
